@@ -1,0 +1,1 @@
+All numbers (0 < n < 1000) that are divisable with 42, 12 and 16.
