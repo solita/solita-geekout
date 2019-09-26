@@ -1,5 +1,9 @@
 # Solita GeEkOuT Repository
 
+GEEKOUT DONE: wE KiNDa ThiNK TH4t alL the cLUEs in thIs R_E_P_O_S_I_T_O_R_Y have been s0lVed.
+
+Stay tuned for tomorrow!
+
 Pull requests accepted and appreciated!
 
 In this repository, you'll find interesting things for the Geekout 2019 event.
